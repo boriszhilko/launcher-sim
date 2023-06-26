@@ -54,5 +54,5 @@ In the future, the Launcher Simulator could include air resistance in the calcul
 ### Adjustable Material Properties
 
 To allow for more versatility, the simulator could be upgraded to enable the specification of different materials and
-measurements for the arm and ball at runtime.
+measurements for the arm and ball at runtime. Currently, those properties are hardcoded.
 
