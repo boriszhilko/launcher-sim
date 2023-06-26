@@ -28,8 +28,8 @@ This will build the application and create an executable named `launcher` in the
 
 ## Usage
 
-Provide the application with the necessary parameters like arm length, arm diameter, arm density, ball diameter, ball
-density, etc. The application will simulate the physics of the launcher and provide the calculated parameters.
+Provide the application with the necessary parameters like torque, maximum speed, arm start angle, ball release angle, etc. 
+The application will simulate the physics of the launcher and provide the calculated ball travel distance.
 
 Example:
 
